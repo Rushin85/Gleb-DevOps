@@ -22,7 +22,7 @@ const server = http.createServer((req, res) => {
         </style>
       </head>
       <body>
-        <h1> Welcome to the Node.js Server, fabulous humans!</h1>
+        <h1> Welcome to the Node.js Server, party people!</h1>
         <p>
           Hey there, fearless traveler! You've just landed on a server powered by pure JavaScript energy. 
           Prepare for a journey full of asynchronous adventures, event-loop twists, and npm package surprises.

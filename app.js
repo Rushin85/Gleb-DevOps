@@ -28,7 +28,7 @@ const server = http.createServer((req, res) => {
           Prepare for a journey full of asynchronous adventures, event-loop twists, and npm package surprises.
         </p>
         <p>
-          Sit back, grab your coffee ☕, and watch your requests get handled with lightning speed . 
+          Sit back, grab your coffee, and watch your requests get handled with lightning speed . 
           Remember, here on the Node.js spaceship, bugs are just features in disguise .
         </p>
         <p>

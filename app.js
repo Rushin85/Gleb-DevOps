@@ -22,17 +22,17 @@ const server = http.createServer((req, res) => {
         </style>
       </head>
       <body>
-        <h1>🚀 Welcome to the Node.js Server!</h1>
+        <h1> Welcome to the Node.js Server!</h1>
         <p>
           Hey there, fearless traveler! You've just landed on a server powered by pure JavaScript energy. 
           Prepare for a journey full of asynchronous adventures, event-loop twists, and npm package surprises.
         </p>
         <p>
-          Sit back, grab your coffee ☕, and watch your requests get handled with lightning speed ⚡. 
-          Remember, here on the Node.js spaceship, bugs are just features in disguise 🐛➡️✨.
+          Sit back, grab your coffee ☕, and watch your requests get handled with lightning speed . 
+          Remember, here on the Node.js spaceship, bugs are just features in disguise .
         </p>
         <p>
-          Enjoy your stay, and may your code always run without errors! 🖖
+          Enjoy your stay, and may your code always run without errors!
         </p>
       </body>
     </html>

@@ -30,7 +30,7 @@ const server = http.createServer((req, res) => {
         }
       );
     });
-  } else {
+   else {
     res.writeHead(200, { "Content-Type": "text/plain" });
     res.end("Webhook server is running!");
   }
